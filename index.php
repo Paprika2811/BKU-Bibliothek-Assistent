@@ -2,7 +2,7 @@
 /**
  * CodeIgniter
  * An open source application development framework for PHP
- *
+ * Hey Team
  * This content is released under the MIT License (MIT)
  *
  * Copyright (c) 2014 - 2015, British Columbia Institute of Technology
